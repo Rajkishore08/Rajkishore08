@@ -1,10 +1,12 @@
 # Raj Kishore
 <h1 align="center">Hi 👋, I'm Raj Kishore</h1>
-<h3 align="center">A passionate Fullstack Developer from India</h3>
+<h3 align="center">As a Second-year software developer student, I am excited to showcase my growing skill set and
+passion for coding through my Github profile. I am eager to apply my skills and knowledge to develop
+innovative applications that positively impact society. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavimalini&label=Profile%20views&color=0e75b6&style=flat" alt="pavimalini" /> </p>
 
 - 🔭 I’m currently working on *Web project*
 
-- 🌱 I’m currently learning *Web Development and Digital Marketing*
+- 🌱 I’m currently learning *Web Development and Fullstack development*
 
