@@ -1,18 +1,12 @@
 # Raj Kishore
-<h1 align="center">Hi 👋, I'm Raj Kishore</h1>
-<h3 align="center">As a Second-year software developer student, I am excited to showcase my growing skill set and
-passion for coding through my Github profile. I am eager to apply my skills and knowledge to develop
-innovative applications that positively impact society. </h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pavimalini&label=Profile%20views&color=0e75b6&style=flat" alt="pavimalini" /> </p>
-
-- 🔭 I’m currently working on *Web project*
-
-- 🌱 I’m currently learning *Web Development and Fullstack development*
-
-
-- 📫 How to reach me **rajkishorerk082004@gmail.com**
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/raj-kishore-cit?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/raj-kishore-cit?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
-
+<h1 align="center">Hi 👋, I'm Raj Kishore</h1> <h3 align="center">An enthusiastic student passionate about building innovative technologies, developing software solutions, and solving real-world problems with tech.</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajkishore08&label=Profile%20views&color=0e75b6&style=flat" alt="rajkishore08" /> </p>
+🔭 I’m currently working on Profit Plus – a web application improving financial management.
+🌱 I’m exploring Web3 technologies while enhancing my skills in Machine Learning and Full-Stack Development.
+🎓 Pursuing MSc Software Systems at Coimbatore Institute of Technology (2022-2027).
+🏆 Achievements include:
+Runner-up at CryptoShield Hackathon 2024
+Winner of IBM Quantum Challenge 2023
+Third place at CODEVORTEX 2024
+💻 Experienced in Node.js, React, MongoDB, Flask, and Java.
+⚡ Fun fact: I'm a certified Cyber Crime Intervention Officer and have a knack for developing smart, user-focused applications.
+<h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://www.linkedin.com/in/raj-kishore-cit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a> <a href="https://github.com/Rajkishore08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" /></a> </p> <h3 align="left">Languages and Tools:</h3> <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p> <h3 align="left">Current Projects:</h3> - **Pocket Sense**: A Web3 app that earned the runner-up spot in the **CryptoShield Hackathon 2024**. - **EMI Calculator**: Built with **Flask** and **React**, it predicts loan feasibility using machine learning.
