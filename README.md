@@ -60,10 +60,3 @@
 
 ---
 
-### 📊 **GitHub Stats**  
-<p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=Rajkishore08&show_icons=true&locale=en" alt="Rajkishore08 stats" width="400" />  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajkishore08&theme=default" alt="Rajkishore08 streak stats" width="400" />  
-</p>  
-
----
