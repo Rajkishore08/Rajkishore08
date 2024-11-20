@@ -1,11 +1,6 @@
 # **Raj Kishore**  
 <h1 align="center">Hi 👋, I'm Raj Kishore</h1>  
 <h3 align="center">An aspiring software developer with a passion for innovation, problem-solving, and creating impactful tech solutions. Always learning, always growing!</h3>  
-
-<p align="center">  
-  <img src="https://komarev.com/ghpvc/?username=Rajkishore08&label=Profile%20views&color=0e75b6&style=flat" alt="Rajkishore08" />  
-</p>  
-
 ---
 
 ### 🚀 **About Me**  
