@@ -1,7 +1,6 @@
 # **Raj Kishore**  
 <h1 align="center">Hi 👋, I'm Raj Kishore</h1>  
 <h3 align="center">An aspiring software developer with a passion for innovation, problem-solving, and creating impactful tech solutions. Always learning, always growing!</h3>  
----
 
 ### 🚀 **About Me**  
 - 🎓 **Education**: MSc Software Systems at **Coimbatore Institute of Technology (2022–2027)**.  
