@@ -9,6 +9,7 @@
   - **Pocket Sense**: A Web3 solution and **CryptoShield Hackathon Runner-Up**.  
 - 🌱 **Learning**: Web3, Machine Learning, and Full-Stack Development.  
 - 🏆 **Achievements**:  
+  - **Winner** at Beyond Abstraction - A Router Protocol & Pivot Hacker House at Bangalore. 
   - **Runner-up** at CryptoShield Hackathon 2024.  
   - **Winner** of IBM Quantum Challenge 2023.  
   - **Third Place** at CODEVORTEX 2024.  
