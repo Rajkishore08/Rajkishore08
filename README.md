@@ -1,130 +1,426 @@
-<!-- Profile README for github.com/Rajkishore08 -->
+ <div align="center">
 
-<a href="https://github.com/Rajkishore08">
-  <img src="https://komarev.com/ghpvc/?username=Rajkishore08&label=Profile%20views&color=6f42c1&style=flat" alt="profile views" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0B3D91,100:00CFFF&height=260&section=header&text=RAJ%20KISHORE%20S&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%7C%20AI%20%7C%20FULL%20STACK%20%7C%20INNOVATOR&descSize=16&descAlignY=58" width="100%"/>
+
+<a href="https://readme-typing-svg.demolab.com">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=800&lines=Full+Stack+Software+Engineer;Building+AI-Powered+Applications;Exploring+Web3+%26+Quantum+Computing;Community+Builder+%26+Tech+Enthusiast;Turning+Ideas+Into+Real-World+Products" alt="Typing SVG"/>
 </a>
 
-<h1 align="center">Hi 👋, I'm Raj Kishore S</h1>
+<br/>
 
-<h3 align="center">
-  Full-Stack Developer · M.Sc Software Systems @ CIT · Community Builder
-</h3>
+<img src="https://komarev.com/ghpvc/?username=Rajkishore08&label=PROFILE+VIEWS&color=0EA5E9&style=for-the-badge" />
+<img src="https://img.shields.io/badge/M.Sc-Software%20Systems-0B3D91?style=for-the-badge&logo=googlescholar&logoColor=white"/>
+<img src="https://img.shields.io/badge/CIT-Coimbatore-0284C7?style=for-the-badge&logo=googleclassroom&logoColor=white"/>
 
-<p align="center">
-  A computer science student who likes solving hard technical problems and shipping
-  innovative, real-world solutions across web, Web3, and AI. Always learning, always building.
-  📍 Coimbatore, India.
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/raj-kishore-cit">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:rajkishores2004@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-38BDF8?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/Rajkishore08">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+</div>
+
+---
+
+## 🧠 About Me
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="350"/>
+</div>
+
+<table>
+<tr>
+<td width="62%" valign="top">
+
+### 👋 Hi, I'm Raj Kishore S.
+
+I'm a **Software Engineer, Full Stack Developer, and Technology Enthusiast** passionate about building scalable applications, exploring emerging technologies, and transforming innovative ideas into real-world products.
+
+Currently pursuing my **5-year Integrated M.Sc Software Systems at Coimbatore Institute of Technology (CIT)**.
+
+My engineering journey revolves around Full Stack Development, Artificial Intelligence, Generative AI, Web3, Blockchain, and emerging technologies.
+
+I've worked on production applications, AI-powered platforms, decentralized applications, and developer tools, combining engineering with practical problem-solving.
+
+I enjoy taking products from idea to deployment — designing architectures, building intuitive interfaces, developing APIs, integrating AI models, and delivering production-ready solutions.
+
+Beyond development, I enjoy building developer communities, organizing technical events, mentoring students, and creating opportunities for people to learn and innovate.
+
+**My philosophy:** Build things that solve real problems, create meaningful impact, and keep pushing technological boundaries.
+
+</td>
+<td width="38%" valign="top">
+
+### ⚡ Quick Facts
+
+- 🎓 M.Sc Software Systems @ CIT
+- 📍 Coimbatore, India
+- 💻 Full Stack Developer
+- 🤖 AI & Generative AI
+- 🌐 Web3 & Blockchain
+- ⚛️ Quantum Computing
+- 🚀 Product Development
+- 🧠 System Architecture
+- 👥 Community Building
+- 🏆 Hackathon Winner
+- 🌍 Open Source Enthusiast
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 🎯 Currently Interested In
+
+![AI](https://img.shields.io/badge/Artificial_Intelligence-0EA5E9?style=flat-square&logo=ai&logoColor=white)
+![LLM](https://img.shields.io/badge/LLMs-38BDF8?style=flat-square)
+![RAG](https://img.shields.io/badge/Vector_RAG-0284C7?style=flat-square)
+![Web3](https://img.shields.io/badge/Web3-6366F1?style=flat-square&logo=ethereum&logoColor=white)
+![Quantum](https://img.shields.io/badge/Quantum_Computing-7C3AED?style=flat-square)
+
+</div>
+
+---
+
+## 💼 Professional Experience
+
+<table>
+<tr>
+<td width="100%">
+
+### Full Stack Developer Intern — Xthlete
+**Bengaluru, India · June 2025 – December 2025**
+
+- Contributed to a production platform serving **23,000+ active users**.
+- Developed and enhanced full-stack application features across frontend and backend.
+- Worked on production-level application functionality, performance, and usability.
+- Collaborated on testing, debugging, integrations, and development workflows.
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+### Full Stack Developer Intern — TIA IT
+**Coimbatore, India · March 2024 – May 2024**
+
+- Developed multi-tier applications using Node.js, Express.js, and MongoDB.
+- Built RESTful APIs with JWT-based authentication.
+- Implemented request validation using Joi schema validation.
+- Worked with Git-based collaborative development workflows.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,ts,cpp,c,java,r" />
 </p>
 
----
+`Python` `JavaScript` `TypeScript` `C++` `C` `Java` `R`
 
-### 🚀 About Me
+### 🎨 Frontend Development
 
-- 🎓 **M.Sc Software Systems (Integrated)** @ **Coimbatore Institute of Technology** — CGPA **8.36** (till 7th sem), 2022–present.
-- 💼 Two full-stack internships shipped (**Xthlete**, **TIA IT**) across real-time apps and multi-tier backends.
-- 🌐 **Campus Lead**, **Google Developer Group On Campus – CIT**.
-- 🧩 Builder across **full-stack web, Web3/blockchain, and ML** — from certificate platforms to decentralized marketplaces.
-- 🌱 Into **prompt engineering, rapid prototyping, and low-code/no-code** product building.
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite" />
+</p>
 
----
+`React.js` `Next.js` `HTML5` `CSS3` `Tailwind CSS` `Vite` `Fabric.js`
 
-### 💼 Experience
+### ⚙️ Backend Development
 
-**Full Stack Developer Intern — Xthlete** · Bengaluru · *Jun 2025 – Dec 2025*
-- Built and enhanced full-stack features for real-time applications across frontend and backend.
-- Developed internal digital tools aligned to business needs, optimizing performance and usability.
-- Ran testing, code reviews, and documentation while collaborating across teams.
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,python" />
+</p>
 
-**Full Stack Developer Intern — TIA IT** · Coimbatore · *Mar 2024 – May 2024*
-- Implemented multi-tier applications with Node.js, Express, MongoDB, and JOI schema validation.
-- Built RESTful APIs secured with JWT authentication; managed version control with Git.
+`Node.js` `Express.js` `FastAPI` `Flask` `REST APIs` `JWT Authentication`
 
----
+### 🗄️ Databases & Backend Services
 
-### 🧩 Featured Projects
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,firebase,supabase" />
+</p>
 
-**Techno Badge** — `React · TypeScript · Vite · Firebase · Fabric.js · Tailwind · jsPDF`
-Bulk certificate-generation platform with drag-and-drop templates, dynamic placeholders, and QR-based verification. Google Sign-In, role-based access, CSV upload, bulk export (PDF/PNG/JPEG, ZIP), and public verification via unique IDs.
+`MySQL` `MongoDB` `PostgreSQL` `Firebase` `Firestore` `Supabase`
 
-**FarmChain** — `React · Node · Express · MongoDB · Solidity · Ethereum/BSC`
-Decentralized agri-marketplace for direct farmer-to-consumer sales. Smart contracts, MetaMask wallet integration, location-based filters, and blockchain-powered order tracking for supply-chain transparency.
+### 🤖 AI & Emerging Technologies
 
-**Student Shield** — `HTML · CSS · JavaScript · PHP · MySQL · Google Maps API`
-Emergency database management system to improve student safety and response times. Student records, blood-group donor matching, real-time location tracking, emergency contacts, and an interactive campus map for safe zones and donation centers.
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,solidity,ethereum" />
+</p>
 
-**Advanced EMI Calculator** — `Flask · React · Python (Scikit-learn)`
-EMI calculator with ML-based loan-feasibility detection using credit score, loan amount, tenure, and market trends. React frontend + Flask backend for real-time financial insights.
+`Generative AI` `LLMs` `Vector RAG` `Prompt Engineering` `Google Gemini` `Groq` `NVIDIA NIM` `Scikit-learn` `Solidity` `Ethereum` `Quantum Computing`
 
----
+### ☁️ Cloud, DevOps & Tools
 
-### 🛠 Skills & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,linux,vscode,postman" />
+</p>
 
-**Languages**
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Frameworks & Frontend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-**Databases & Cloud**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-
-**Web3 & ML**
-
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+`Git` `GitHub` `Docker` `AWS` `Vercel` `Firebase Hosting` `Linux` `Postman` `VS Code`
 
 ---
 
-### 🏆 Achievements
+## 🧩 Core Expertise
 
-- 🥇 **Winner** — IBM Quantum Challenge 2023
-- 🥇 **Winner** — HackVerse 5.0, Avalanche track (24-hr hackathon, NIT Surathkal)
-- 🥇 **Winner** — Beyond Abstraction, Okto Track (Router Protocol & Pivot Hacker House, Bangalore)
-- 🥈 **Runner-up** — CryptoShield 2K24 (Amrita Vishwa Vidyapeetham, Chennai)
-- 🥈 **Runner-up** — CODESPRINT (FOSS-CIT)
-- 🎖️ **Prize winner** — Safe Agentathon (Safe)
+<div align="center">
+
+| Domain | Technologies & Expertise |
+|:---|:---|
+| **Full Stack Engineering** | React, Next.js, Node.js, FastAPI |
+| **Backend Engineering** | REST APIs, JWT, Authentication, API Integration |
+| **Artificial Intelligence** | LLMs, Generative AI, Prompt Engineering |
+| **AI Engineering** | Vector RAG, Gemini, Groq, NVIDIA NIM |
+| **Web3 & Blockchain** | Solidity, Ethereum, Smart Contracts |
+| **Frontend Engineering** | React, TypeScript, Fabric.js, Tailwind |
+| **Databases** | MongoDB, MySQL, PostgreSQL, Firebase |
+| **Cloud & Deployment** | Vercel, Firebase, Docker, AWS |
+| **Product Development** | Architecture, Prototyping, Deployment |
+| **Developer Community** | Technical Events, Workshops, Mentorship |
+
+</div>
 
 ---
 
-### 🌟 Leadership & Responsibilities
+## 🚀 Featured Projects
 
-- **Campus Lead** — Google Developer Group On Campus, CIT · *Sep 2025 – Present*
-- **Co-Founder & Associate Director** — Student Developers Cell, CIT · *Oct 2024 – Aug 2025*
-- **Secretary** — Google Developers Student Club, CIT · *Apr 2024 – Oct 2024*
-- **Director of Professional Service** — Rotaract Club of CIT · *Jan 2024 – Apr 2024*
-- **Media Production Lead** — Google Developers Student Club, CIT · *Aug 2023 – Apr 2024*
+<div align="center">
+
+*Building practical products at the intersection of software engineering and emerging technologies.*
+
+</div>
+
+<details open>
+<summary><b>🔹 TechnoBadge — Certificate Generation & Verification Platform</b></summary>
+
+<br/>
+
+**Tech Stack:** `React` `TypeScript` `Vite` `Firebase` `Fabric.js` `Tailwind CSS` `jsPDF`
+
+A customizable certificate-generation platform designed for developer communities, organizations, and event organizers.
+
+### Key Features
+
+- WYSIWYG certificate template designer using Fabric.js.
+- Dynamic placeholders and customizable certificate templates.
+- Bulk certificate generation through CSV uploads.
+- QR-code-based certificate verification.
+- Multiple export formats: PDF, PNG, JPEG and ZIP.
+- Google Sign-In and role-based access management.
+- Public verification through unique certificate IDs.
+
+### Impact
+
+- Adopted by **30+ GDG chapters**.
+- Generated **2,000+ certificates**.
+- Simplified large-scale event certificate distribution and verification.
+
+</details>
 
 ---
 
-### 📜 Certifications
+<details>
+<summary><b>🔹 Techno Recruit — AI-Powered Talent Acquisition Platform</b></summary>
 
-- Certified Lean Six Sigma Yellow Belt — MSME TDC, Govt. of India
+<br/>
+
+**Tech Stack:** `AI` `LLaMA 3` `Groq API` `Vector RAG` `Full Stack Development`
+
+An AI-driven talent acquisition platform designed to streamline recruitment workflows through intelligent candidate analysis and retrieval-augmented generation.
+
+### Key Capabilities
+
+- AI-assisted recruitment workflows.
+- LLM-powered candidate analysis.
+- Vector-based retrieval and contextual information processing.
+- Automated information extraction and intelligent matching.
+- AI-powered recruitment assistance.
+
+</details>
+
+---
+
+<details>
+<summary><b>🔹 Grainary — D2C Commerce & Subscription Platform</b></summary>
+
+<br/>
+
+**Tech Stack:** `Next.js 16` `TypeScript` `Full Stack` `Database Engineering`
+
+A digital commerce platform built for JDP Enterprises, combining direct-to-consumer shopping with subscription management and product traceability.
+
+### Key Capabilities
+
+- D2C shopping experience.
+- Subscription management engine.
+- Batch-level laboratory traceability.
+- Product and order management.
+- Comprehensive multi-route application architecture.
+
+### Engineering Highlights
+
+`59 Application Routes` · `Subscription Engine` · `Batch Traceability`
+
+</details>
+
+---
+
+<details>
+<summary><b>🔹 FarmChain — Decentralized Agricultural Marketplace</b></summary>
+
+<br/>
+
+**Tech Stack:** `React` `Node.js` `Express` `MongoDB` `Solidity` `Ethereum` `BSC`
+
+A blockchain-powered agricultural marketplace connecting farmers directly with consumers.
+
+### Key Features
+
+- Direct farmer-to-consumer marketplace.
+- Smart contract-based transactions.
+- MetaMask wallet integration.
+- Location-based product filtering.
+- Blockchain-powered order tracking.
+- Supply-chain transparency.
+
+</details>
+
+---
+
+<details>
+<summary><b>🔹 Edu Chain AI Hub — Decentralized AI Education Platform</b></summary>
+
+<br/>
+
+**Tech Stack:** `React` `Solidity` `Wagmi` `zkVerify` `EDU Chain` `IPFS` `Node.js`
+
+An AI-powered decentralized educational assessment platform combining blockchain verification and intelligent learning workflows.
+
+### Key Features
+
+- AI-generated educational assessments.
+- Skill mapping and assessment workflows.
+- Privacy-preserving proof verification.
+- IPFS-based decentralized storage.
+- Smart-contract-based verification.
+
+</details>
+
+---
+
+<details>
+<summary><b>🔹 Student Shield — Emergency Database Management System</b></summary>
+
+<br/>
+
+**Tech Stack:** `HTML` `CSS` `JavaScript` `PHP` `MySQL` `Google Maps API`
+
+An emergency management system focused on improving student safety and emergency response.
+
+### Key Features
+
+- Student emergency record management.
+- Blood-group-based donor matching.
+- Location tracking.
+- Emergency contact management.
+- Interactive campus maps.
+- Safe-zone and donation-center visualization.
+
+</details>
+
+---
+
+<details>
+<summary><b>🔹 Advanced EMI Calculator — ML-Based Financial Analysis</b></summary>
+
+<br/>
+
+**Tech Stack:** `Flask` `React` `Python` `Scikit-learn`
+
+A financial calculation application that combines traditional EMI computation with machine-learning-based loan feasibility prediction.
+
+### Key Features
+
+- EMI calculation.
+- Loan feasibility prediction.
+- Credit score-based analysis.
+- Loan amount and tenure evaluation.
+- Market trend-based insights.
+- React frontend and Flask backend.
+
+</details>
+
+---
+
+## 🏆 Achievements & Recognition
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/HACKATHON-WINNER-0EA5E9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/COMMUNITY-LEADER-0284C7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TECH-ENTHUSIAST-38BDF8?style=for-the-badge"/>
+
+</div>
+
+| Recognition | Achievement |
+|:---|:---|
+| 🥇 IBM Quantum Challenge 2023 | Winner |
+| 🥇 HackVerse 5.0 – NIT Surathkal | Winner – Avalanche Track |
+| 🥇 Beyond Abstraction | Winner – Okto Track |
+| 🥈 CryptoShield 2K24 – Amrita | Runner-up |
+| 🥈 CODESPRINT – FOSS-CIT | Runner-up |
+| 🎖️ Safe Agentathon | Prize Winner |
+
+---
+
+## 🌟 Leadership & Community Building
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/GOOGLE-DEVELOPER%20GROUP-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/COMMUNITY-BUILDING-0EA5E9?style=for-the-badge"/>
+
+</div>
+
+### Google Developer Group On Campus — CIT
+
+**Founding Lead / Campus Lead**
+
+- Established and led the GDG On Campus community at CIT.
+- Organized and supported 25+ technical events, workshops, and hackathons.
+- Encouraged student participation in Google technologies and developer programs.
+- Coordinated technical initiatives and community collaborations.
+- Supported learning opportunities through hands-on workshops and challenges.
+
+### Other Leadership Roles
+
+| Organization | Position | Duration |
+|:---|:---|:---|
+| Student Developers Cell, CIT | Co-Founder & Associate Director | Oct 2024 – Aug 2025 |
+| Google Developers Student Club, CIT | Secretary | Apr 2024 – Oct 2024 |
+| Rotaract Club of CIT | Director of Professional Service | Jan 2024 – Apr 2024 |
+| Google Developers Student Club, CIT | Media Production Lead | Aug 2023 – Apr 2024 |
+
+---
+
+## 📜 Certifications
+
+- Certified Lean Six Sigma Yellow Belt — MSME TDC, Government of India
 - Professional Ethics at Workplace — AICTE / ethiXcard
 - The Cadet Citation — National Security Database
 - Data Analysis with Python — IBM
@@ -134,41 +430,106 @@ EMI calculator with ML-based loan-feasibility detection using credit score, loan
 
 ---
 
-### 🎯 Areas of Interest
+## 🎯 Current Focus
 
-`Software Development` · `Prompt Engineering` · `Rapid Prototyping` · `Low-Code / No-Code` · `Web3 & Blockchain`
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔭 Exploring
+
+- Generative AI & LLMs
+- Advanced RAG architectures
+- AI Agents and automation
+- Quantum Computing
+- Web3 and Blockchain
+- Scalable system architecture
+- Emerging technologies
+
+</td>
+<td width="50%" valign="top">
+
+### 🛠️ Building
+
+- AI-powered applications
+- Full-stack SaaS products
+- Developer productivity tools
+- Intelligent automation systems
+- Modern web applications
+- Real-world technology solutions
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📚 Learning
+
+- Advanced AI engineering
+- Cloud architecture
+- Distributed systems
+- Quantum algorithms
+- Software architecture
+- Product engineering
+
+</td>
+<td width="50%" valign="top">
+
+### 🤝 Open To
+
+- Software engineering collaborations
+- AI and emerging-tech projects
+- Open-source contributions
+- Hackathons and innovation challenges
+- Startup and product opportunities
+- Developer community initiatives
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rajkishore08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajkishore08&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajkishore08&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rajkishore08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="GitHub Statistics"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajkishore08&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajkishore08&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 ---
 
-### 📬 Connect With Me
+## 🤝 Let's Connect
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/raj-kishore-cit" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:rajkishores2004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/Rajkishore08" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <!-- Replace YOUR_PORTFOLIO_URL below with your portfolio link -->
-  <a href="YOUR_PORTFOLIO_URL" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-6f42c1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center"><i>Always learning, always building. 🚀</i></p>
+*Always open to meaningful conversations, exciting collaborations, and building something impactful together.*
+
+<br/>
+
+<a href="https://www.linkedin.com/in/raj-kishore-cit">
+<img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:rajkishores2004@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Rajkishore08">
+<img src="https://img.shields.io/badge/GitHub-Follow%20me-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+**"Think beyond boundaries. Build beyond expectations. Create impact through technology."**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00CFFF,50:0B3D91,100:050816&height=150&section=footer" width="100%"/>
+
+</div>
